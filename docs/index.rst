@@ -13,36 +13,29 @@ Two models were implemented, and a pipeline for training, deployment, evaluation
 
 Work Completed - please update if needed
 
-.. list-table::
-    :widths: 25 75
-    :header-rows: 1
+Work Completed
+--------------
 
-      * - Step
-         - What was done
-      * - Model development
-         - A machine learning model for product bundle recommendation was developed and evaluated.
-      * - Pipeline development
-         - A pipeline was built to deploy and integrate the model in a productive environment.
-      * - Results presentation
-         - The results were prepared and visualized in a dashboard, with data stored persistently for reuse.
+- Model development
+   - A machine learning model for product bundle recommendation was developed and evaluated.
+- Pipeline development
+   - A pipeline was built to deploy and integrate the model in a production environment.
+- Results presentation
+   - The results were prepared and visualized in a dashboard; data are stored persistently for reuse.
 
 Project Team - - please update if needed
 
-.. list-table::
-    :widths: 20 30 50
-    :header-rows: 1
+Project Team
+------------
 
-      * - Team member
-         - Role
-         - Contribution
-      * - Christian
-         - Development of a machine learning model for product bundle recommendation.
-         - Preparation and visual representation of the results in a dashboard.
-      * - Diana Khutorna
-         - Development of a machine learning model for product bundle recommendation.
-         - Preparation and visual representation of the results in a dashboard.
-      * - Tizian
-         - Development of a pipeline to deploy and integrate the model in a productive environment
+- Christian — ML Development
+   - Developed the machine learning model for product bundle recommendation.
+   - Prepared and visualized results in the project dashboard.
+- Diana Khutorna — ML Development
+   - Contributed to model development and evaluation.
+   - Assisted with result visualization and reporting.
+- Tizian — Pipeline Engineering
+   - Built the deployment and integration pipeline for the model in production.
 
 
 Related Projects
