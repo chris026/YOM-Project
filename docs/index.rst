@@ -11,7 +11,7 @@ About the Project
 The goal of the project is to recommend the most relevant products to bundle with a specific anchor product at the point of sale.
 Two models were implemented, and a pipeline for training, deployment, evaluation, and recommendation delivery was prepared.
 
-Work Completed
+Work Completed - please update if needed
 --------------
 
 .. list-table::
@@ -27,7 +27,7 @@ Work Completed
       * - Results presentation
          - The results were prepared and visualized in a dashboard, with data stored persistently for reuse.
 
-Project Team
+Project Team - - please update if needed
 ------------
 
 .. list-table::
@@ -37,19 +37,15 @@ Project Team
       * - Team member
          - Role
          - Contribution
-      * - Member 1
-         - ML Development
+      * - Christian
          - Development of a machine learning model for product bundle recommendation.
-      * - Member 2
-         - Pipeline Engineering
-         - Development of a pipeline to deploy and integrate the model in a productive environment.
-      * - Member 3
-         - Analytics / Dashboarding
-         - Preparation and visual representation of the results in a dashboard and persistent storage of the data.
+         - Preparation and visual representation of the results in a dashboard.
+      * - Diana Khutorna
+         - Development of a machine learning model for product bundle recommendation.
+         - Preparation and visual representation of the results in a dashboard.
+      * - Tizian
+         - Development of a pipeline to deploy and integrate the model in a productive environment
 
-.. note::
-
-    If needed, replace “Member 1/2/3” with the real names and adjust each person's contribution.
 
 Related Projects
 ----------------
