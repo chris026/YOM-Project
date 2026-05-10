@@ -12,7 +12,6 @@ The goal of the project is to recommend the most relevant products to bundle wit
 Two models were implemented, and a pipeline for training, deployment, evaluation, and recommendation delivery was prepared.
 
 Work Completed - please update if needed
---------------
 
 .. list-table::
     :widths: 25 75
@@ -28,7 +27,6 @@ Work Completed - please update if needed
          - The results were prepared and visualized in a dashboard, with data stored persistently for reuse.
 
 Project Team - - please update if needed
-------------
 
 .. list-table::
     :widths: 20 30 50
