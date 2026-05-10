@@ -23,19 +23,20 @@ Work Completed
 - Results presentation
    - The results were prepared and visualized in a dashboard; data are stored persistently for reuse.
 
-Project Team - - please update if needed
+Project Team - please update if needed
 
 Project Team
 ------------
 
-- Christian — ML Development
+- Christian
    - Developed the machine learning model for product bundle recommendation.
    - Prepared and visualized results in the project dashboard.
-- Diana Khutorna — ML Development
-   - Contributed to model development and evaluation.
-   - Assisted with result visualization and reporting.
-- Tizian — Pipeline Engineering
+- Diana Khutorna
+   - Developed the machine learning model for product bundle recommendation.
+   - Prepared and visualized results in the project dashboard.
+- Tizian
    - Built the deployment and integration pipeline for the model in production.
+   - 
 
 
 Related Projects
