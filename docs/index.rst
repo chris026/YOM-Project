@@ -1,3 +1,8 @@
+.. image:: _static/yom-logo.svg
+   :alt: YOM logo
+   :align: center
+   :width: 180px
+
 YOM Bundle Recommender System
 =============================
 
@@ -51,8 +56,13 @@ Project Team
    - Built and maintained the results dashboard
    - Designed the A/B-test framework and evaluation methodology
 - Diana
-   - Conducted the requirements analysis for both recommender systems
-   - Developed the MBA Recommender (Market Basket Analysis, LightGBM LambdaRank pipeline)
+   - Data Scientist
+   - Drove the research and design of the product bundle recommendation model, including
+     exploratory analysis of YOM data, assessment of available approaches, and architecture design aligned with computational
+     constraints
+   - Developed the MBA Recommender (Market Basket Analysis, LightGBM LambdaRank pipeline,
+     fallback logic)
+   - Supported the dashboard development and evaluation workflow
 - Tizian
    - Responsible for production deployment (AWS Lambda, Docker, CI/CD)
 
