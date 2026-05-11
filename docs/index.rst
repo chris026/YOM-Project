@@ -1,7 +1,7 @@
 .. image:: _static/yom-logo.svg
    :alt: YOM logo
    :align: center
-   :width: 180px
+   :width: 280px
 
 YOM Bundle Recommender System
 =============================
