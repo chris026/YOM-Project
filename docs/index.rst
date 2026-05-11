@@ -1,4 +1,4 @@
-.. image:: _static/yom-logo.svg
+.. image:: _static/yom-logo.png
    :alt: YOM logo
    :align: center
    :width: 280px
