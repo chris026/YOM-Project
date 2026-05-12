@@ -75,3 +75,6 @@ Related Projects
 .. toctree::
    :maxdepth: 2
    :caption: Contents
+
+   dashboard
+   ab_test
