@@ -10,6 +10,7 @@ sys.path.insert(0, os.path.abspath(".."))
 
 project = "YOM-Project"
 release = "1.0.0"
+copyright = "2026"
 
 # -- General configuration ---------------------------------------------------
 
