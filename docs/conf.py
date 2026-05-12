@@ -29,4 +29,7 @@ autodoc_mock_imports = [
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = "sphinx_rtd_theme"
+html_theme_options = {
+    'style_nav_header_background': '#2862a3',
+}
 html_static_path = ["_static"]

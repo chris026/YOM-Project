@@ -6,6 +6,8 @@ recommender system in production. It walks through each section of the
 dashboard, explains what the charts show, and defines every metric that
 appears on them.
 
+The dashboard is accessible at `yom.metabaseapp.com <https://yom.metabaseapp.com>`_.
+
 The data shown in the dashboard is synthetic test data. Time ranges may
 therefore be inconsistent between sections (e.g. October 2025 in some
 panels, January 2024 in others), and day-over-day deltas for partial
