@@ -70,7 +70,7 @@ Related Projects
 ----------------
 
 * `YOM-Word2Vec <https://yom-project.readthedocs.io/projects/Word2Vec/en/latest/>`_ — Embedding-based recommender (Word2Vec + LightGBM)
-* `YOM-MBA <https://yom-project.readthedocs.io/projects/MBA/en/latest/>`_ — Association-based recommender (Market Basket Analysis + LightGBM)
+* `YOM-Bundle-Recommender <https://yom-project.readthedocs.io/projects/bundle-recommender/en/latest/>`_ — Association-based recommender (Market Basket Analysis + LightGBM)
 
 .. toctree::
    :maxdepth: 2
